@@ -6,6 +6,7 @@ export const temaEscuro = {
         secundaria:'#1E293B',
         secundaria_clara:'#475569',
         fundo: '#0F172A',
+        fundo_claro: '#1E293B',
         texto: '#F8FAFC',
         
     }
@@ -19,7 +20,8 @@ export const temaClaro = {
         secundaria:'#1E293B',
         secundaria_clara:'#475569',
         fundo: '#f3e7e3',
-        texto: '#09090a',
+        fundo_claro: '#ffffff',
+        texto: '#0F172A',
     }
 }
 
